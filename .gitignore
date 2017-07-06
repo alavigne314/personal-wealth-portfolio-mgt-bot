@@ -1,6 +1,7 @@
 # npm modules #
 ######################
 node_modules/
+.idea/
 
 # OS generated files #
 ######################
